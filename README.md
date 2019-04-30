@@ -17,3 +17,9 @@ $ make start
 ```
 
 * Open <https://localhost:9000> 
+
+### Test
+
+```bash
+$ make test
+```
